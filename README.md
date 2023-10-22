@@ -25,3 +25,9 @@
 ## 🛠️ Tool
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 [![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)
+
+### My Achievements
+- 🏆 Completed the React Project
+- 🚀 Contributed to an Open Source Project
+- 🌟 Reached 100 GitHub Followers
+

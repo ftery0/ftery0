@@ -1,24 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
-<h3 align="center">I am a front-end developer growing with experience.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ftery0&label=Profile%20views&color=0e75b6&style=flat" alt="ftery0" /> </p>
-
-- 🔭 I’m currently working on **SOPO**
-
-- 👨‍💻 All of my projects are available at [https://burnt-servant-f10.notion.site/0c9c02a4da694fb1969043fe9383722b?pvs=4](https://burnt-servant-f10.notion.site/0c9c02a4da694fb1969043fe9383722b?pvs=4)
-
-- 📝 I regularly write blog on [https://blog.naver.com/hae_jun7388](https://blog.naver.com/hae_jun7388)
-
-- 📫 How to reach me **ftery030215@naver.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/hae_jun7388/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hae_jun7388/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
+<h3 align="left">I am a front-end developer growing with experience.</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftery0&show_icons=true&locale=en&layout=compact" alt="ftery0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ftery0&show_icons=true&locale=en" alt="ftery0" /></p>
+
+
+#### Contact & Social
+  <p>
+  <a href="mailto:ftery030215@naver.com"><img src="http://img.shields.io/badge/Email-link-007ACC?style=for-the-
+  
+
+  <p>
+  <a href="mailto:ftery030215@naver.com"><img src="http://img.shields.io/badge/Email-link-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white&link=mailto:ftery030215@naver.com"/></a>&nbsp
+  <a href="https://www.instagram.com/hae_jun7388/" target="_blank"><img src="https://img.shields.io/badge/Instagram-link-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hae_jun7388/"/></a>&nbsp
+
+## 💪 skills
+[![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
+[![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
+
+## 🛠️ Tool
+![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+[![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)

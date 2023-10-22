@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lee hae jun</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
 <h3 align="center">I am a front-end developer growing with experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ftery0&label=Profile%20views&color=0e75b6&style=flat" alt="ftery0" /> </p>

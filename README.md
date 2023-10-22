@@ -8,8 +8,6 @@
 #### Contact & Social
   <p>
   <a href="mailto:ftery030215@naver.com"><img src="http://img.shields.io/badge/Email-link-007ACC?style=for-the-
-  
-
   <p>
   <a href="mailto:ftery030215@naver.com"><img src="http://img.shields.io/badge/Email-link-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white&link=mailto:ftery030215@naver.com"/></a>&nbsp
   <a href="https://www.instagram.com/hae_jun7388/" target="_blank"><img src="https://img.shields.io/badge/Instagram-link-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hae_jun7388/"/></a>&nbsp

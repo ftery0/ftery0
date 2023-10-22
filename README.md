@@ -7,10 +7,11 @@
 
 #### Contact & Social
   <p>
-  <a href="mailto:ftery030215@naver.com"><img src="http://img.shields.io/badge/Email-link-007ACC?style=for-the-
-  <p>
   <a href="mailto:ftery030215@naver.com"><img src="http://img.shields.io/badge/Email-link-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white&link=mailto:ftery030215@naver.com"/></a>&nbsp
   <a href="https://www.instagram.com/hae_jun7388/" target="_blank"><img src="https://img.shields.io/badge/Instagram-link-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hae_jun7388/"/></a>&nbsp
+  <a href="https://haejun-world.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/Blog-link-36B6FD?style=for-the-badge&logo=t-mobile&logoColor=white&link=https://haejun-world.tistory.com/"/></a>&nbsp
+  </p>
+
 
 ## 💪 skills
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)

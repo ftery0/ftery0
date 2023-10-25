@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=HELLO%20%20👋&fontSize=60&fontAlignY=35)
+Hello 👍
 <h3 align="left">I am a front-end developer growing with experience.</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftery0&show_icons=true&locale=en&layout=compact" alt="ftery0" /></p>
 

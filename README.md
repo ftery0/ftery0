@@ -1,8 +1,8 @@
-#### Hello 👍
+# Hi 👋, I'm Hae Jun
 <h3 align="left">I am a front-end developer growing with experience.</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftery0&show_icons=true&locale=en&layout=compact" alt="ftery0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ftery0&show_icons=true&locale=en" alt="ftery0" /></p>
+
 
 
 #### Contact & Social

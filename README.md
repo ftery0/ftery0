@@ -9,10 +9,7 @@
 <a href="https://haejun-world.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/Blog-link-36B6FD?style=for-the-badge&logo=t-mobile&logoColor=white&link=https://haejun-world.tistory.com/"/></a>&nbsp
 </p>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br/> <!-- Added line break to create space -->
 
 ## 💪 skills
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)

@@ -18,6 +18,7 @@
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
+[![Typescript](https://img.shields.io/badge/typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=black)]((https://typescriptlang.org/))]
 
 ## 🛠️ Tool
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
